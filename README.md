@@ -31,7 +31,7 @@ Performance Optimization: Improved loading speed and efficiency through optimize
 
 # 🔗 Project Link
 
-👉 
+👉 **(https://github.com/iamayush07032004/-Pizza-Sales-Dashboard-in-Power-BI-/blob/05a024beff96cb8978ef0058699b4e913ab73cc5/pizzas%20dashboard.pbix)**
 
 
 
